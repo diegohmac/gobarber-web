@@ -12,10 +12,10 @@ Possibilitar a gestão e disponibilização da agenda dos profissionais do salã
 
 #### Executando as aplicações
 
-- Acesse a pasta 'GoBarber'
+- Acesse a pasta 'gobarber-web'
 
 ```shell
-  cd GoBarber
+  cd gobarber-web
 ```
 
 - Iniciar aplicação
